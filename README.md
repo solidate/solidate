@@ -16,8 +16,8 @@ My area of interest lies in Applied machine learning and deep learning.
 You can see what I am currently upto on [solidate.github.io](https://solidate.github.io).
 
 ### 📬 Get in touch
-1. Linkedin: [keshav-kr](https://in.linkedin.com/in/keshav-kr)
-2. Instagram: [Keshav](https://www.instagram.com/keshv.shrma/)
+1. Linkedin: @[keshav-kr](https://in.linkedin.com/in/keshav-kr)
+2. Instagram: [keshv.shrma](https://www.instagram.com/keshv.shrma/)
 
 ### 🌳 My Digital Garden
 1. [Projects](https://solidate.github.io/projects/)
@@ -33,7 +33,7 @@ You can see what I am currently upto on [solidate.github.io](https://solidate.gi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidate&hide=Jupyter%20Notebook&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's Top Langauages" />
 </a>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=solidate" alt="solidate"/> </p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=solidate" alt="solidate"/> </p> -->
 
 
 <!--
