@@ -6,7 +6,7 @@ My name is Keshav Kumar and I am currently working as Senior Machine Learning En
 - 🌱 I’m currently learning Sematic Search
 - 👯 I’m looking to collaborate on NLP Projects
 - 🤔 I’m looking for help with Deploying ML Models on scale
-- 💬 Ask me about Ml deployments
+- 💬 Ask me about ML Deployments
 - 📫 How to reach me: keshavkumar.du.or.18@gmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Anime are awesome.
