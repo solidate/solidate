@@ -26,11 +26,11 @@ You can see what I am currently upto on [solidate.github.io](https://solidate.gi
 ### &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/solidate/solidate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solidate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solidate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Keshav's GitHub Stats" />
 </a>
 
 <a href="https://github.com/solidate/solidate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidate&hide=Jupyter%20Notebook&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's Top Langauages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidate&hide=Jupyter%20Notebook&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Keshav's Top Langauages" />
 </a>
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=solidate" alt="solidate"/> </p> -->
